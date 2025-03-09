@@ -1,5 +1,5 @@
 .{
-    .name = "datetime",
+    .name = .datetime,
     .version = "0.0.3",
     .paths = .{
         "build.zig",
@@ -8,4 +8,5 @@
         "LICENSE",
         "README.md",
     },
+    .fingerprint = 0x93f3c6cadaabb2fc,
 }
